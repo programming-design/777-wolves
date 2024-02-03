@@ -460,6 +460,10 @@ h2{
 .about {
     height: 73vh;
 }
+
+    .character .title h1 {
+    width: 355px;
+    }
 /********************/
 nav ul {
     position: fixed;
